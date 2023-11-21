@@ -1,3 +1,3 @@
-module gopkg.in/natefinch/lumberjack.v2
+module github.com/ethermeta-org/lumberjack/v2
 
 go 1.13
